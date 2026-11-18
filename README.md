@@ -1,6 +1,11 @@
 # Smart Water Level Monitoring System
 
 **An ESP32-based IoT water tank monitoring system developed by Team TechTitans as part of the EN1190 Engineering Design Project at the University of Moratuwa.**
+## Final Prototype
+
+![Final assembled Smart Water Tank Monitoring System](images/final%20assembled%20Smart%20Water%20Tank%20Monitoring%20System.jpeg)
+
+
 
 ## Project Overview
 
