@@ -78,6 +78,18 @@ A 3D-printed enclosure was designed using SolidWorks to accommodate the PCB, bat
 
 A non-invasive ultrasonic sensor mounting method was also developed to avoid permanently modifying the water tank.
 
+### PCB Layout
+
+![Custom PCB layout](images/pcb_layout.jpg)
+
+### PCB 3D View
+
+![3D visualization of the custom PCB](images/pcb-3d-view.jpg)
+
+### Enclosure Design
+
+![SolidWorks enclosure design](images/enclosure-design.jpg)
+
 ## Challenges and Improvements
 
 During development, the team addressed several engineering challenges:
