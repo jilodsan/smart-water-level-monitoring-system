@@ -70,6 +70,10 @@ The web dashboard includes:
 - SMS notification configuration
 - Weekly water level summaries based on demonstration history
 
+### Live Monitoring Dashboard
+
+![Firebase-connected live water tank monitoring dashboard](images/web-dashboard-live-monitoring-1.jpeg)
+
 ## Engineering Design
 
 The project includes a custom two-layer PCB designed to integrate the main electronic components.
